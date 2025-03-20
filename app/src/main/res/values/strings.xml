@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mine BMI</string>
+    <string name="bmi_18_5"><![CDATA[BMI < 18.5]]></string>
+</resources>

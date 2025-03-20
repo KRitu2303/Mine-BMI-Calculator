@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="selected">#5EF678</color>
+    <color name="unselected">#FFFFFF</color>
+
+
+
+    <color name="less">#BC2020</color>
+    <color name="normal">#008137</color>
+    <color name="medium">#FFE400</color>
+    <color name="high">#8A0101</color>
+
+</resources>
